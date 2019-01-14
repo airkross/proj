@@ -74,6 +74,9 @@
   padding-left: 0px;
 }
 
+.between-arrow{
+  width: 100%;
+}
 
 .row {
   margin-right: 0;
@@ -93,6 +96,15 @@ body {
   width: 145%;
   padding-right: 0;
   padding-left: 0;
+}
+
+.bet-arr{
+  z-index: 9;
+}
+
+.between-arrow{
+  margin-right: -11px;
+  width: 127%;
 }
 
 .title {
@@ -280,4 +292,23 @@ body {
 
 .gray-bg {
   background-color: rgb(233, 233, 233);
+}
+
+.down{
+  margin-top: 20rem;
+}
+.down-0{
+  margin-top: 10rem;
+}
+
+.down-2{
+  margin-top: 80rem;
+}
+
+.down-3{
+  margin-top: 60rem;
+}
+
+.down-4{
+  margin-top: 40rem;
 }
