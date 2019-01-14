@@ -104,7 +104,7 @@ body {
 
 .between-arrow{
   margin-right: -11px;
-  width: 127%;
+  width: 100%;
 }
 
 .title {
@@ -146,7 +146,6 @@ body {
 
 .table .column-1 {
   margin-top: 2rem;
-  padding: 0 .5rem
 }
 
 .space {
@@ -259,7 +258,7 @@ body {
 }
 
 .card-download a i {
-  font-size: 2.3rem;
+  font-size: 2rem;
 }
 
 .column-1 .row {
