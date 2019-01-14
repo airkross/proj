@@ -127,7 +127,11 @@ body {
   text-align: center;
   font-weight: 700;
   text-transform: uppercase;
-  min-height: 10rem;
+  min-height: 8rem;
+  height: 8rem;
+  display: flex;
+  justify-content: center;
+  align-items: center
 }
 
 .column-type {
@@ -300,12 +304,20 @@ body {
   margin-top: 10rem;
 }
 
+.down-5{
+  margin-top: 5rem;
+}
+
 .down-2{
   margin-top: 80rem;
 }
 
 .down-3{
   margin-top: 60rem;
+}
+
+.down-6{
+  margin-top: 50rem;
 }
 
 .down-4{
