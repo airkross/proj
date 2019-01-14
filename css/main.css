@@ -74,6 +74,7 @@
   padding-left: 0px;
 }
 
+
 .row {
   margin-right: 0;
   margin-left: 0px;
@@ -86,6 +87,12 @@ html {
 
 body {
   background-color: rgb(233, 233, 233);
+}
+
+.container-fluid {
+  width: 145%;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .title {
@@ -111,7 +118,7 @@ body {
   min-height: 10rem;
 }
 
-.column-type{
+.column-type {
   text-align: center;
   text-transform: uppercase;
   font-weight: 700;
@@ -240,7 +247,7 @@ body {
 }
 
 .card-download a i {
-  font-size: 1.7rem;
+  font-size: 2.3rem;
 }
 
 .column-1 .row {
@@ -271,6 +278,6 @@ body {
   border-bottom: .2rem solid rgb(124, 124, 124);
 }
 
-.gray-bg{
+.gray-bg {
   background-color: rgb(233, 233, 233);
 }
