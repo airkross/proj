@@ -312,3 +312,11 @@ body {
 .down-4{
   margin-top: 40rem;
 }
+
+.space-top{
+  margin-top: 9.5rem;
+}
+
+.fixed-top{
+  background-color: rgb(233, 233, 233);
+}
