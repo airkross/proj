@@ -137,11 +137,15 @@ body {
   transition: background-color .2s ease;
 }
 
+.nav-item{
+  max-width: 47%;
+}
+
 .nav-item .nav-link{
   color: #666666;
   font-weight: 700;
   transition: all .3s ease;
-  font-size: 1.6rem;
+  font-size: 1rem;
 }
 
 .nav-item:hover .nav-link{
@@ -418,3 +422,4 @@ padding-left: 2.5rem;
 .space-right{
 padding-right: 5.5rem;
 }
+
